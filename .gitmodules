@@ -1,0 +1,3 @@
+[submodule "agenda"]
+	path = agenda
+	url = https://github.com/lucaslbmp/agenda.git
